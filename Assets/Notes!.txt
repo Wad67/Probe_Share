@@ -1,0 +1,27 @@
+Fully 3d rendered cockpit, with RTCAM texture for window, showing hood of spacecraft
+
+Spacecraft are rediculous petroleum and diesel powered creations
+
+All controls should be visible in pixel art / gritty style overlayed into cockpit
+
+Yaw control is yanking a steering wheel forward and back
+
+Player arms should move in a funny programatic way depending on what control is being used
+
+Guns should have visible autoloaders and shit clanking around, obscuring view
+
+Taking damage visibly disrupts / damages cockpit
+
+If you aren't wearing spacesuit and glass is fucked display horrendous animation of your face being sucked through the glass
+
+If you are wearing a spacesuit and have a gun in your posession you may do drive by shootings, etc
+
+
+General gameplay loop - Friendly town, upgrade, crew, whatever - Roam, kill shit, explore, find another friendly town
+Quests inbetween, trading between towns
+
+Fuel / Oxygen for engines and breathing / radiator water
+
+Light speed is going plaid from spaceballs
+
+You rule over a small civilization that lives in the back seat, it performs crafting operations in exchange for narcotics
